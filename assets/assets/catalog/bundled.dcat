@@ -1,0 +1,12 @@
+{
+ "format": "daniel-catalog",
+ "version": 1,
+ "catalogVersion": 0,
+ "app": "wholesale",
+ "exportedAt": "2026-01-01T00:00:00Z",
+ "currency": "",
+ "source": {"shop": "bundled", "id": "00000000"},
+ "suppliers": [],
+ "shelves": [],
+ "items": []
+}
